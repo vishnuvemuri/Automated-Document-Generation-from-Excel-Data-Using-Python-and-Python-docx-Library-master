@@ -17,7 +17,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/automated-doc-gen.git
+git clone https://github.com/vishnuvemuri/automated-doc-gen.git
 cd automated-doc-gen
 Create a Virtual Environment:
 
