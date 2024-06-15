@@ -1,8 +1,11 @@
 Automated Document Generation from Excel Data Using Python and Python-docx Library
+
 Overview
+
 This project focuses on automating the generation of Word documents from Excel data using Python and the python-docx library. It streamlines the process of creating standardized documents by extracting data from Excel sheets and populating pre-defined templates, thereby saving time and reducing errors associated with manual document creation.
 
 Features
+
 Excel Data Extraction: Reads and processes data from Excel files.
 Template-Based Document Generation: Uses predefined Word templates to ensure consistency.
 Dynamic Content Insertion: Automatically inserts data into specific locations within the Word document.
