@@ -3,6 +3,8 @@ Automated Document Generation from Excel Data Using Python and Python-docx Libra
 Overview
 
 This project focuses on automating the generation of Word documents from Excel data using Python and the python-docx library. It streamlines the process of creating standardized documents by extracting data from Excel sheets and populating pre-defined templates, thereby saving time and reducing errors associated with manual document creation.
+![image](https://github.com/vishnuvemuri/Automated-Document-Generation-from-Excel-Data-Using-Python-and-Python-docx-Library-master/assets/96485620/398b57c4-7ec6-43b6-bb6c-900f9840a099)
+
 
 Features
 
@@ -64,5 +66,8 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+![image](https://github.com/vishnuvemuri/Automated-Document-Generation-from-Excel-Data-Using-Python-and-Python-docx-Library-master/assets/96485620/23e0ff83-1a00-4953-80c0-c553802f814b)
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
